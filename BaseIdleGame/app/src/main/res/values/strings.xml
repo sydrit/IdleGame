@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base Idle Game</string>
+    <string name="button1">Upgrade 1</string>
+    <string name="button2">Upgrade 2</string>
+    <string name="button3">Upgrade 3</string>
+    <string name="button4">Upgrade 4</string>
+    <string name="button5">Upgrade 5</string>
+    <string name="button6">Upgrade 6</string>
+</resources>
